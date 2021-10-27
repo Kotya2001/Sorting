@@ -1,1 +1,1 @@
-# Sorting of rubbish
+# Sorting
